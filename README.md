@@ -28,12 +28,7 @@ print("{:.2f}" .format(distance))
   ```
 
 ### OUTPUT:
-![image](https://github.com/prathyusharavi/DISTANCE-BETWEEN-TWO-POINTS/assets/147474424/6bddd66c-10dd-421c-99be-65a1f0482ce0)
-
+![OUTPUT](<distances points.png>)
 ### RESULT:
 The program is executed successfully.
 
-
-
-
-### RESULT:
